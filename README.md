@@ -1,6 +1,6 @@
 # Hey there! I'm Caique Gabriel 👋
 
-- I'm a tech enthusiast with a knack for **C** and **C#** programming, crafting reliable and efficient code every day.
+- I'm a tech enthusiast with a knack for **C**, **C#** and **PYTHON** programming, crafting reliable and efficient code every day.
 - Always learning, always exploring — I’m passionate about honing my skills and diving deeper into software development.
 - Feel free to reach out via email: worldcadiiin@gmail.com
 
