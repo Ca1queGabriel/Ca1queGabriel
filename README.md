@@ -18,7 +18,7 @@ Thanks for stopping by!
 </div><br/>
 
 ## 📈 My GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ca1queGabriel&size_weight=0.5&count_weight=0.5)
+![Top Langs]()
 
 ### 🤝 Open to Collaboration!
 I’m always on the lookout for exciting projects and opportunities to connect with other developers. If you’re working on something interesting or just want to chat, let’s connect!
