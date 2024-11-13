@@ -8,7 +8,6 @@ Thanks for stopping by!
 
 ## Let's Connect 🌐
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caique-gabriel-gomes-lima-b68943213/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caique_gabz/)
 
 ## 💻 Languages I Work With
 <div style="display: inline_block"><br/>
