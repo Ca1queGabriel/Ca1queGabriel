@@ -3,8 +3,11 @@
 ## 💻 Software Developer | Tech Enthusiast | Problem Solver
 
 🔹 Passionate about technology, writing efficient, reliable, and scalable code. I work with languages such as **C**, **C#**, **Python**, **Java**, **PHP**, **Laravel**, and **HTML**. 
+
 🚀 Always exploring new technologies and improving my skills.
+
 💼 Currently working as a developer at **LanceAI**.
+
 📩 Contact: [caiquegabrielgomeslima@gmail.com](mailto:caiquegabrielgomeslima@gmail.com)
 
 ---
