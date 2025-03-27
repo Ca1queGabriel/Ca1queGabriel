@@ -1,23 +1,21 @@
-# Hey there! I'm Caique Gabriel 👋
+# Hello! I'm Caique Gabriel 👋
 
 ## 💻 Software Developer | Tech Enthusiast | Problem Solver
 
-🔹 Passionate about technology, always striving to write **efficient, reliable, and scalable** code. I work with various programming languages, including:
+🔹 Passionate about technology, writing efficient, reliable, and scalable code. I work with languages such as **C**, **C#**, **Python**, **Java**, **PHP**, **Laravel**, and **HTML**. 🚀 Always exploring new technologies and improving my skills.
 
-🟢 **C** | 🔵 **C#** | 🐍 **Python** | ☕ **Java** | 🐘 **PHP** | ⚡ **Laravel** | 🌐 **HTML**
+💼 Currently working as a developer at **LanceAI**.
 
-🚀 Constantly exploring new technologies and improving my skills to build innovative solutions.
-
-📩 **Contact me:** [caiquegabrielgomeslima@gmail.com](mailto:caiquegabrielgomeslima@gmail.com)
+📩 Contact: [caiquegabrielgomeslima@gmail.com](mailto:caiquegabrielgomeslima@gmail.com)
 
 ---
 
-## 🌐 Let's Connect  
+## 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caique-gabriel-gomes-lima-b68943213/)
 
 ---
 
-## 💻 Tech Stack  
+## 💻 Tech Stack
 <div style="display: inline_block"><br/>
   <img align="center" alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
@@ -30,18 +28,19 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ca1queGabriel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ca1queGabriel&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ---
 
-## 🚀 Contribution Graph  
+## 🚀 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ca1queGabriel&theme=radical)
 
 ---
 
-### 🤝 Open to Collaboration!  
-If you have an innovative project or just want to discuss software development, **let's talk!** 🚀
+## 🤝 Let's Collaborate
+I am always open to collaborating on exciting and innovative projects. If you're looking for a skilled developer with expertise in **C**, **C#**, **Python**, **Java**, **PHP**, **Laravel**, and more, I would love to connect and discuss how we can build something great together.
+
+Feel free to reach out if you have a project in mind or simply want to explore new ideas.
