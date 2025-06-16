@@ -2,7 +2,7 @@
 
 ## 💻 Software Developer | Tech Enthusiast | Problem Solver
 
-🔹 Passionate about technology, writing efficient, reliable, and scalable code. I work with languages such as **C**, **C#**, **Python**, **Java**, **PHP**, **Laravel**, and **HTML**. 
+🔹 Passionate about technology, writing efficient, reliable, and scalable code. I work with languages such as **C**, **C#**, **Python**, **Java**, **PHP**, and **HTML**. 
 
 🚀 Always exploring new technologies and improving my skills.
 
